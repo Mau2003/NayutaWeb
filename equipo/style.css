@@ -1,0 +1,316 @@
+:root {
+    --elevation-high: 0 8px 16px rgba(0, 0, 0, 0.24);
+}
+/*Whitney, */
+/** {
+    box-sizing: border-box;
+}:adidaspeao:
+*/
+button input, label, select, span, strong, textarea {
+    outline: 0;
+}
+a, abbr, acronym, address, applet, big, blockquote, body, caption, cite, code, dd, del, dfn, dl, dt, em, fieldset, form, html, iframe, ins, kbd, label, legend, li, object, ol, p, pre, q, s, samp, small, span, strike, strong, table, tbody, td, tfoot, th, thead, tr, tt, var {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: none;
+    font-style: inherit;
+    font-family: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+div {
+    display: block;
+}
+body {
+    margin: 0;
+    background: #36393f;
+    min-height: 100vh;
+    display: grid;
+    place-items: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-rendering: optimizeLegibility;
+    flex-direction: column;
+}
+
+
+.profile {
+    width: 300px;
+    border-radius: 8px;
+    overflow: hidden;
+    max-height: calc(100vh - 20px);
+    box-shadow: var(--elevation-high);
+    background: #18191c;
+    padding-bottom: 1rem;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+.banner {
+background: url("https://cdn.discordapp.com/banners/364935263828574232/a_66ddd9b4713163cf9dcc0d2d784b80e1.gif?size=2048"), url("https://cdn.discordapp.com/banners/584444448361021450/a_3687e136557516bd5cb4cca6d2fa9e36.gif?size=1024");
+    width: inherit;
+    height: 120px;
+    position: absolute;
+    cursor: pointer;
+    background-repeat: no-repeat;
+   /*background-position: center center;
+   */
+    background-size: cover;
+
+}
+.banner2 {
+    background-color: #cbcbcb;
+        width: inherit;
+        height: 120px;
+        position: absolute;
+        cursor: pointer;
+        background-repeat: no-repeat;
+       /*background-position: center center;
+       */
+        background-size: cover;
+    
+    }
+.banner3 {
+        background-color: #2b1817;
+            width: inherit;
+            height: 120px;
+            position: absolute;
+            cursor: pointer;
+            background-repeat: no-repeat;
+           /*background-position: center center;
+           */
+            background-size: cover;
+        
+}
+.banner4 {
+    background-color: #851f43;
+        width: inherit;
+        height: 120px;
+        position: absolute;
+        cursor: pointer;
+        background-repeat: no-repeat;
+       /*background-position: center center;
+       */
+        background-size: cover;
+    
+    }
+.banner .change-banner {
+    pointer-events: none;
+    visibility: hidden;
+    color: white;
+    font-family: inherit;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    position: absolute;
+    inset: 0;
+   /*text-transform: uppercase;
+    font-size: 12px;
+    line-height: 12px;
+   */
+}
+.banner:hover {
+    box-shadow: inset 0 0 120px #000;
+}
+.banner:hover .change-banner {
+    visibility: visible;
+}
+.avatar {
+    pointer-events: all;
+    z-index: 101;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    background: url("https://cdn.discordapp.com/avatars/364935263828574232/a_ec1ba281a451f368433a3b355d01d3ca.gif?size=1024");
+    background-size: cover;
+    border: 6px solid #18191c;
+    cursor: pointer;
+}
+.avatar2 {
+    pointer-events: all;
+    z-index: 101;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    background: url("https://cdn.discordapp.com/avatars/329728108485672960/50fdf238fa23af1c8ae575f8afbd0275.png?size=1024");
+    background-size: cover;
+    border: 6px solid #18191c;
+    cursor: pointer;
+}
+.avatar3 {
+    pointer-events: all;
+    z-index: 101;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    background: url("https://cdn.discordapp.com/avatars/530192818002460672/a_6d671f636d7334de3bfcc259a38316c3.gif?size=1024");
+    background-size: cover;
+    border: 6px solid #18191c;
+    cursor: pointer;
+}
+.avatar4 {
+    pointer-events: all;
+    z-index: 101;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    background: url("https://cdn.discordapp.com/avatars/459448925582000129/ee94889ec28433fc48e5a2504b97917b.png?size=1024");
+    background-size: cover;
+    border: 6px solid #18191c;
+    cursor: pointer;
+}
+.avatar__wrapper {
+    z-index: 102;
+    position: absolute;
+    position: relative;
+    top: 75px;
+    left: 16px;
+    overflow: hidden;
+    pointer-events: none;
+}
+.avatar .change-avatar {
+    visibility: hidden;
+    max-width: 90px;
+    font-family: inherit;
+    font-size: 10px;
+    box-sizing: border-box;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 12px;
+    text-align: center;
+    white-space: pre;
+    position: absolute;
+    inset: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    pointer-events: none;
+    color: white;
+}
+.avatar:hover {
+    box-shadow: inset 0 0 120px #000;
+}
+.avatar:hover .change-avatar {
+    visibility: visible;
+}
+.status-icon {
+    position: relative;
+    width: 16px;
+    height: 16px;
+    background: url("https://cdn.discordapp.com/attachments/859496866151792663/892921966133125140/online.png"), #18191c;
+    float: right;
+    top: 55px;
+    border-radius: 50%;
+    border: 6px solid #18191c;
+    cursor: pointer;
+    pointer-events: none;
+}
+.headerTop {
+    padding-bottom: 12px;
+    flex-shrink: 0;
+    padding: 90px 16px 16px;
+    overflow: hidden;
+    position: relative;
+    pointer-events: none;
+}
+.headerTop .badges {
+    position: absolute;
+    top: 16px;
+    right: 10px;
+    min-width: 100px;
+    max-width: 180px;
+    max-width: 185px;
+    justify-content: flex-end;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -2px;
+    margin-bottom: -2px;
+    margin-top: 25px;
+    pointer-events: all;
+}
+.headerTop .badges .badge {
+    cursor: pointer;
+    margin: 0 2px 2px 0;
+    pointer-events: all;
+}
+.headerTop .headerText {
+    pointer-events: all;
+}
+.headerTop .headerText .nickname {
+    background: none;
+    border: none;
+    font-family: inherit;
+    margin: 0;
+    padding: 0;
+    word-break: break-all;
+    font-weight: 600;
+    color: white;
+    font-size: 20px;
+    line-height: 24px;
+}
+.headerTop .headerText .headerTag {
+    margin-top: 0.3em;
+    line-height: 18px;
+    font-size: 14px;
+    font-weight: 500;
+    display: block;
+    justify-content: flex-start;
+    align-items: center;
+    overflow: hidden;
+}
+.headerTop .headerText .headerTag .username {
+    background: none;
+    border: none;
+    margin: 0;
+    padding: 0;
+    font-family: inherit;
+    width: auto;
+    overflow: auto;
+    word-break: break-all;
+    text-overflow: unset;
+    white-space: normal;
+    color: #b9bbbe;
+    vertical-align: top;
+    display: inline;
+    -webkit-box-flex: 0;
+    flex: 0 1 auto;
+}
+.headerTop .headerText .headerTag .discrim {
+    color: #b9bbbe;
+    vertical-align: top;
+}
+.test {
+    background: red;
+    width: 200px;
+    height: 150px;
+}
+[contenteditable] {
+    outline: 0px solid transparent;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+/* Firefox */
+input[type=number] {
+    -moz-appearance: textfield;
+}
+.discrim-input {
+    color: #b9bbbe;
+    background: none;
+    border: none;
+    margin: 0;
+    padding: 0;
+    font-family: inherit;
+}
+p::text2 {
+    color: white;
+    text-shadow: 1px 1px #fff;
+}
+
+img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"]{
+    display: none;
+}

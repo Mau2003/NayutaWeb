@@ -47,7 +47,7 @@ body {
     flex-direction: column;
 }
 .banner {
-background: url("https://cdn.discordapp.com/banners/364935263828574232/a_66ddd9b4713163cf9dcc0d2d784b80e1.gif?size=2048"), url("https://cdn.discordapp.com/banners/584444448361021450/a_3687e136557516bd5cb4cca6d2fa9e36.gif?size=1024");
+background: url("https://i.imgur.com/ed1tj4E.gif");
     width: inherit;
     height: 120px;
     position: absolute;
@@ -123,7 +123,7 @@ background: url("https://cdn.discordapp.com/banners/364935263828574232/a_66ddd9b
     border-radius: 50%;
     width: 80px;
     height: 80px;
-    background: url("https://cdn.discordapp.com/avatars/364935263828574232/a_ec1ba281a451f368433a3b355d01d3ca.gif?size=1024");
+    background: url("https://i.imgur.com/erJ2xye.gif");
     background-size: cover;
     border: 6px solid #18191c;
     cursor: pointer;
@@ -134,7 +134,7 @@ background: url("https://cdn.discordapp.com/banners/364935263828574232/a_66ddd9b
     border-radius: 50%;
     width: 80px;
     height: 80px;
-    background: url("https://cdn.discordapp.com/avatars/329728108485672960/50fdf238fa23af1c8ae575f8afbd0275.png?size=1024");
+    background: url("https://i.imgur.com/0sbGHvj.png");
     background-size: cover;
     border: 6px solid #18191c;
     cursor: pointer;
@@ -145,7 +145,7 @@ background: url("https://cdn.discordapp.com/banners/364935263828574232/a_66ddd9b
     border-radius: 50%;
     width: 80px;
     height: 80px;
-    background: url("https://cdn.discordapp.com/avatars/530192818002460672/a_6d671f636d7334de3bfcc259a38316c3.gif?size=1024");
+    background: url("https://i.imgur.com/iIBucrP.gif");
     background-size: cover;
     border: 6px solid #18191c;
     cursor: pointer;
@@ -156,7 +156,7 @@ background: url("https://cdn.discordapp.com/banners/364935263828574232/a_66ddd9b
     border-radius: 50%;
     width: 80px;
     height: 80px;
-    background: url("https://cdn.discordapp.com/avatars/459448925582000129/ee94889ec28433fc48e5a2504b97917b.png?size=1024");
+    background: url("https://i.imgur.com/vwDKvtn.png");
     background-size: cover;
     border: 6px solid #18191c;
     cursor: pointer;

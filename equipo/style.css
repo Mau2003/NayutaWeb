@@ -47,7 +47,7 @@ body {
     flex-direction: column;
 }
 .banner {
-background: url("https://i.ibb.co/C9Z4J0Z/a-52485acabfe7726659af73a91c6e8743.gif");
+background: url("https://i.imgur.com/h33UcoS.gif");
     width: inherit;
     height: 120px;
     position: absolute;
@@ -59,7 +59,7 @@ background: url("https://i.ibb.co/C9Z4J0Z/a-52485acabfe7726659af73a91c6e8743.gif
 
 }
 .banner2 {
-    background-color: #cbcbcb;
+    background-color: #180c0c;
         width: inherit;
         height: 120px;
         position: absolute;
@@ -71,7 +71,7 @@ background: url("https://i.ibb.co/C9Z4J0Z/a-52485acabfe7726659af73a91c6e8743.gif
     
     }
 .banner3 {
-        background-color: #2b1817;
+        background-color: #c0c4bc;
             width: inherit;
             height: 120px;
             position: absolute;
@@ -83,7 +83,7 @@ background: url("https://i.ibb.co/C9Z4J0Z/a-52485acabfe7726659af73a91c6e8743.gif
         
 }
 .banner4 {
-    background-color: #851f43;
+    background-color: #f0dc8c;
         width: inherit;
         height: 120px;
         position: absolute;
@@ -123,7 +123,7 @@ background: url("https://i.ibb.co/C9Z4J0Z/a-52485acabfe7726659af73a91c6e8743.gif
     border-radius: 50%;
     width: 80px;
     height: 80px;
-    background: url("https://i.ibb.co/Z8VPtf3/a-12f05b0d0f2f7fa86526424ea6836ee0.gif");
+    background: url("https://i.imgur.com/UlB78vR.gif");
     background-size: cover;
     border: 6px solid #18191c;
     cursor: pointer;
@@ -134,7 +134,7 @@ background: url("https://i.ibb.co/C9Z4J0Z/a-52485acabfe7726659af73a91c6e8743.gif
     border-radius: 50%;
     width: 80px;
     height: 80px;
-    background: url("https://i.imgur.com/0sbGHvj.png");
+    background: url("https://i.imgur.com/kMq0Rfu.png");
     background-size: cover;
     border: 6px solid #18191c;
     cursor: pointer;
@@ -145,7 +145,7 @@ background: url("https://i.ibb.co/C9Z4J0Z/a-52485acabfe7726659af73a91c6e8743.gif
     border-radius: 50%;
     width: 80px;
     height: 80px;
-    background: url("https://i.imgur.com/iIBucrP.gif");
+    background: url("https://i.imgur.com/u1DQXhH.gif");
     background-size: cover;
     border: 6px solid #18191c;
     cursor: pointer;

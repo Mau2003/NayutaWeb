@@ -47,7 +47,7 @@ body {
     flex-direction: column;
 }
 .banner {
-background: url("https://cdn.discordapp.com/banners/364935263828574232/a_7e80ec904342f27cf171577e49736c5c.gif?size=2048");
+background: url("https://i.imgur.com/I7THsqQ.gif");
     width: inherit;
     height: 120px;
     position: absolute;
@@ -145,7 +145,7 @@ background: url("https://cdn.discordapp.com/banners/364935263828574232/a_7e80ec9
     border-radius: 50%;
     width: 80px;
     height: 80px;
-    background: url("https://cdn.discordapp.com/avatars/530192818002460672/a_b25d1dbf8f8806db0987c1df2b50c6cf.gif");
+    background: url("https://i.imgur.com/Qey3MCq.png");
     background-size: cover;
     border: 6px solid #18191c;
     cursor: pointer;

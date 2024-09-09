@@ -59,7 +59,7 @@ background: url("https://i.imgur.com/I7THsqQ.gif");
 
 }
 .banner2 {
-    background-color: #180c0c;
+background: url("https://i.imgur.com/ZMwrywk.gif");
         width: inherit;
         height: 120px;
         position: absolute;
@@ -134,7 +134,7 @@ background: url("https://i.imgur.com/I7THsqQ.gif");
     border-radius: 50%;
     width: 80px;
     height: 80px;
-    background: url("https://cdn.discordapp.com/avatars/329728108485672960/29e66c5740de8deed6e3ead8a09e25b4.webp?size=4096");
+    background: url("https://i.imgur.com/HfQCYeX.png");
     background-size: cover;
     border: 6px solid #18191c;
     cursor: pointer;

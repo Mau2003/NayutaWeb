@@ -59,8 +59,7 @@ background: url("https://i.imgur.com/I7THsqQ.gif");
 
 }
 .banner2 {
-    background:
-url("https://cdn.discordapp.com/banners/329728108485672960/a_3aecbbfb486ae36666213e4f0c69ad72.gif?size=4096");
+    background-color: #180c0c;
         width: inherit;
         height: 120px;
         position: absolute;

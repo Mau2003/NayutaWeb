@@ -747,7 +747,7 @@ input[type='checkbox'] {
 /*    04. Header     */
 /*********************/
 .header {
-	background: linear-gradient(to bottom right, rgba(72, 72, 212, 0), rgba(241, 104, 104, 0)), url('https://media.discordapp.net/attachments/1224576994956673077/1318465583347662930/header-background.jpg?ex=67626c42&is=67611ac2&hm=0f2ffbde3388a9122e4f3d3e196e2e0c1d5dd791e0c14e5dee6f66fc55187ab5&=&format=webp') center center no-repeat;
+	background: linear-gradient(to bottom right, rgba(72, 72, 212, 0), rgba(241, 104, 104, 0)), url('../static/header-background') center center no-repeat;
 	background-size: cover;
 }
 

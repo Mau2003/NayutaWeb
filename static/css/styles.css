@@ -1456,7 +1456,7 @@ a:hover.back-to-top {
 .ex-header2 {
 	padding-top: 8rem;
 	padding-bottom: 5rem;
-	background: linear-gradient(to bottom right, rgba(72, 72, 212, 0), rgba(241, 104, 104, 0)), url('https://media.discordapp.net/attachments/1224576994956673077/1318466589191831572/nayutaequipo.jpg?ex=67626d32&is=67611bb2&hm=bea6977bb517f4180f9137c36cd2dffc93aa151416b5b47bff6288a41d96ea6f&=&format=webp') center center no-repeat;
+	background: linear-gradient(to bottom right, rgba(72, 72, 212, 0), rgba(241, 104, 104, 0)), url('../images/nayutaequipo.jpg') center center no-repeat;
 	text-align: center;
 }
 

@@ -47,7 +47,7 @@ body {
     flex-direction: column;
 }
 .banner {
-background: url("https://media.discordapp.net/attachments/1224576994956673077/1318468016035598459/a_665801bf2dce7cb6becdbe65d8e129ae.gif?ex=67626e86&is=67611d06&hm=02fb9e651aa5f4700f96c7d9c24a96a029cc7976a927e5f167816130352154da&=");
+    background: url("https://i.imgur.com/QsrnNYy.gif");
     width: inherit;
     height: 120px;
     position: absolute;
@@ -59,15 +59,15 @@ background: url("https://media.discordapp.net/attachments/1224576994956673077/13
 
 }
 .banner2 {
-background-color: #1c0d0a;
-        width: inherit;
-        height: 120px;
-        position: absolute;
-        cursor: pointer;
-        background-repeat: no-repeat;
-       /*background-position: center center;
-       */
-        background-size: cover;
+    background-color: #1c0d0a;
+    width: inherit;
+    height: 120px;
+    position: absolute;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    /*background-position: center center;
+    */
+    background-size: cover;
     
     }
 .banner3 {
@@ -134,7 +134,7 @@ background-color: #1c0d0a;
     border-radius: 50%;
     width: 80px;
     height: 80px;
-    background: url("https://media.discordapp.net/attachments/1224576994956673077/1318476237315768392/1091ae010feb53d8617f3a88a752ddad-ezgif.com-webp-to-jpg-converter.jpg?ex=6762762f&is=676124af&hm=f55b28bac06dafecb8a54d3bcbd5fbf45c237a1f833747f400d09fb781286d6c&=&format=webp");
+    background: url("https://i.imgur.com/JaSshXx.png");
     background-size: cover;
     border: 6px solid #18191c;
     cursor: pointer;
@@ -145,7 +145,7 @@ background-color: #1c0d0a;
     border-radius: 50%;
     width: 80px;
     height: 80px;
-    background: url("https://media.discordapp.net/attachments/1224576994956673077/1318470591480594473/a_7d610eeb04f56232d0e54bbe70efb308.gif?ex=676270ed&is=67611f6d&hm=e836da18770aeaff40e23d875675a14b096aa2c7e4741aea19ce884a24b0ba54&=");
+    background: url("https://i.imgur.com/X8uFxmG.gif");
     background-size: cover;
     border: 6px solid #18191c;
     cursor: pointer;

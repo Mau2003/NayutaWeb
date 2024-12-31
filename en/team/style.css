@@ -59,15 +59,15 @@ body {
 
 }
 .banner2 {
-background-color: #1c0d0a;
-        width: inherit;
-        height: 120px;
-        position: absolute;
-        cursor: pointer;
-        background-repeat: no-repeat;
-       /*background-position: center center;
-       */
-        background-size: cover;
+    background-color: #1c0d0a;
+    width: inherit;
+    height: 120px;
+    position: absolute;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    /*background-position: center center;
+    */
+    background-size: cover;
     
     }
 .banner3 {
@@ -128,6 +128,14 @@ background-color: #1c0d0a;
     border: 6px solid #18191c;
     cursor: pointer;
 }
+.cat-ears {
+    position: absolute;
+    top: -0px; 
+    left: 10%;
+    transform: translateX(-39%);
+    width: 80px; 
+    pointer-events: none; 
+  }
 .avatar2 {
     pointer-events: all;
     z-index: 101;
@@ -199,7 +207,7 @@ background-color: #1c0d0a;
     position: relative;
     width: 16px;
     height: 16px;
-    background: url("https://cdn.discordapp.com/attachments/859496866151792663/892921966133125140/online.png"), #18191c;
+    background: url("https://cdn.discordapp.com/attachments/859496866151792663/892921966133125140/online.png");
     float: right;
     top: 55px;
     border-radius: 50%;
@@ -311,6 +319,6 @@ p::text2 {
     text-shadow: 1px 1px #fff;
 }
 
-img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white3.png"]{
+img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"]{
     display: none;
 }

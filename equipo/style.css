@@ -128,6 +128,14 @@ body {
     border: 6px solid #18191c;
     cursor: pointer;
 }
+.cat-ears {
+    position: absolute;
+    top: -0px; /* Ajusta para que las orejas se coloquen justo encima */
+    left: 10%;
+    transform: translateX(-39%);
+    width: 80px; /* Ajusta el tamaño de las orejas según tu avatar */
+    pointer-events: none; /* Asegúrate de que no interfiera con el cursor */
+  }
 .avatar2 {
     pointer-events: all;
     z-index: 101;

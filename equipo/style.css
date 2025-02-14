@@ -130,11 +130,11 @@ body {
 }
 .cat-ears {
     position: absolute;
-    top: -0px; /* Ajusta para que las orejas se coloquen justo encima */
+    top: -0px;
     left: 10%;
     transform: translateX(-39%);
-    width: 80px; /* Ajusta el tamaño de las orejas según tu avatar */
-    pointer-events: none; /* Asegúrate de que no interfiera con el cursor */
+    width: 80px; 
+    pointer-events: none;
   }
 .avatar2 {
     pointer-events: all;

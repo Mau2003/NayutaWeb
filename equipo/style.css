@@ -123,7 +123,7 @@ body {
     border-radius: 50%;
     width: 80px;
     height: 80px;
-    background: url("https://cdn.nayutabot.com/avatarmau.png");
+    background: url("https://cdn.nayutabot.com/media/avatarmau.png");
     background-size: cover;
     border: 6px solid #18191c;
     cursor: pointer;
@@ -142,7 +142,7 @@ body {
     border-radius: 50%;
     width: 80px;
     height: 80px;
-    background: url("https://cdn.nayutabot.com/avatarbazty.png");
+    background: url("https://cdn.nayutabot.com/media/avatarbazty.png");
     background-size: cover;
     border: 6px solid #18191c;
     cursor: pointer;
@@ -153,7 +153,7 @@ body {
     border-radius: 50%;
     width: 80px;
     height: 80px;
-    background: url("https://cdn.nayutabot.com/avataredu.png");
+    background: url("https://cdn.nayutabot.com/media/avataredu.png");
     background-size: cover;
     border: 6px solid #18191c;
     cursor: pointer;
@@ -164,7 +164,7 @@ body {
     border-radius: 50%;
     width: 80px;
     height: 80px;
-    background: url("https://cdn.nayutabot.com/wackavatar.gif");
+    background: url("https://cdn.nayutabot.com/media/wackavatar.gif");
     background-size: cover;
     border: 6px solid #18191c;
     cursor: pointer;
